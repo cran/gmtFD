@@ -1,0 +1,14 @@
+184fd159810480e41fb612a01685fb19 *DESCRIPTION
+eadea6db97d7a9c9a272a45c5357ebab *NAMESPACE
+c35873dc2a205a76bfd741a1f341b1d5 *R/RcppExports.R
+32a9413257c9a838a6f164aee8b589d8 *R/functions_auxiliary_gmtfd.R
+12c3c44025279cb998244c5392295fc9 *R/functions_main_gmtfd.R
+f912b0385385ec46a254df8ef400d2b7 *R/functions_summary_gmtfd.R
+0461eb7928be3fbae02475fc43031801 *R/gmtFD.R
+761f1cdab6ba9ffa21dbeea1dd64a950 *man/gmtFD.Rd
+d559fefe54fdb87275ef8a4396928701 *man/ph_test_statistic.Rd
+ac6a3d4ee5583544f0769e00e03e1c30 *man/summary.multifmanova.Rd
+489b262d4f81136a32f0bb09936fe53e *src/Makevars
+a73031cbe7d6aaf0bd22e20f6526977d *src/Makevars.win
+30b14a6ef311182a87f737c5d36f46b6 *src/RcppExports.cpp
+7ad1d9a7f6eb619e500dc533f6349c68 *src/functions_auxiliary_gmtfd.cpp
